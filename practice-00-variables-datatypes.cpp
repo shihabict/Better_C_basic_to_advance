@@ -18,7 +18,7 @@ int main(){
     bool student = false;
 
     std:: cout <<"Mr." << first_name <<" is student :" << student << "\n";
-
+ 
 
     // String
 
